@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <!-- <form action="http://127.0.0.1:8001/upload" method="post" enctype="multipart/form-data"> -->
+    <form action="http://127.0.0.1:8001/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="avatar">
+        <input type='submit'>btn</input>
+    </form>
+    <form action="http://127.0.0.1:8001/uploadMultiple" method="post"  enctype="multipart/form-data">
+        <input type="file" name="photo" multiple>
+        <input type='submit'>btn</input>
+    </form>
+    <script>
+        const fn=()=>{}
+    </script>
+</body>
+</html>
+<!-- 
+    enctype是HTML表单中的一个属性，用于指定在将表单数据发送到服务器之前应该如何对数据进行编码。
+    该属性代表“编码类型”。根据表单数据的性质，使用不同的编码类型
+
+    enctype常用属性值：
+        1.application/x-www-form-urlencoded（默认值）：
+            如果未指定enctype属性，则这是默认的编码类型。
+            在将数据发送到服务器之前，表单数据将进行URL编码。特殊字符将被替换为%xx的表示形式，其中“xx”是字符的ASCII码的十六进制表示。
+            适用于纯文本数据，是简单表单的默认值。
+        2.multipart/form-data：
+            当表单包含二进制数据（如文件上传）时，使用此编码类型。
+            表单中的每个字段，包括文件输入，都作为HTTP请求中的单独部分分隔并发送。这允许传输非文本数据。
+            适用于包含文件上传的表单。
+
+ -->

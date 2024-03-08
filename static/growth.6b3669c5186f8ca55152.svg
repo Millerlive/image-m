@@ -1,0 +1,227 @@
+<svg
+  id="SvgjsSvg20322"
+  width="259"
+  height="172.07638888888886"
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svgjs="http://svgjs.dev"
+  class="apexcharts-svg"
+  xmlns:data="ApexChartsNS"
+  transform="translate(0, 0)"
+  style="background: transparent"
+>
+  <g
+    id="SvgjsG20324"
+    class="apexcharts-inner apexcharts-graphical"
+    transform="translate(29.5, 0)"
+  >
+    <defs id="SvgjsDefs20323">
+      <clipPath id="gridRectMask6f3mmzgk">
+        <rect
+          id="SvgjsRect20326"
+          width="206"
+          height="202"
+          x="-3"
+          y="-1"
+          rx="0"
+          ry="0"
+          opacity="1"
+          stroke-width="0"
+          stroke="none"
+          stroke-dasharray="0"
+          fill="#fff"
+        ></rect>
+      </clipPath>
+      <clipPath id="forecastMask6f3mmzgk"></clipPath>
+      <clipPath id="nonForecastMask6f3mmzgk"></clipPath>
+      <clipPath id="gridRectMarkerMask6f3mmzgk">
+        <rect
+          id="SvgjsRect20327"
+          width="204"
+          height="204"
+          x="-2"
+          y="-2"
+          rx="0"
+          ry="0"
+          opacity="1"
+          stroke-width="0"
+          stroke="none"
+          stroke-dasharray="0"
+          fill="#fff"
+        ></rect>
+      </clipPath>
+      <linearGradient id="SvgjsLinearGradient20332" x1="1" y1="0" x2="0" y2="1">
+        <stop
+          id="SvgjsStop20333"
+          stop-opacity="1"
+          stop-color="transparent"
+          offset="0.3"
+        ></stop>
+        <stop
+          id="SvgjsStop20334"
+          stop-opacity="0.6"
+          stop-color="rgba(3,195,236,0.6)"
+          offset="0.7"
+        ></stop>
+        <stop
+          id="SvgjsStop20335"
+          stop-opacity="0.6"
+          stop-color="rgba(3,195,236,0.6)"
+          offset="1"
+        ></stop>
+      </linearGradient>
+      <linearGradient id="SvgjsLinearGradient20343" x1="1" y1="0" x2="0" y2="1">
+        <stop
+          id="SvgjsStop20344"
+          stop-opacity="1"
+          stop-color="rgba(3,195,236,1)"
+          offset="0.3"
+        ></stop>
+        <stop
+          id="SvgjsStop20345"
+          stop-opacity="0.6"
+          stop-color="rgba(3,195,236,0.6)"
+          offset="0.7"
+        ></stop>
+        <stop
+          id="SvgjsStop20346"
+          stop-opacity="0.6"
+          stop-color="rgba(3,195,236,0.6)"
+          offset="1"
+        ></stop>
+      </linearGradient>
+    </defs>
+    <g id="SvgjsG20328" class="apexcharts-radialbar">
+      <g id="SvgjsG20329">
+        <g id="SvgjsG20330" class="apexcharts-tracks">
+          <g
+            id="SvgjsG20331"
+            class="apexcharts-radialbar-track apexcharts-track"
+            rel="1"
+          >
+            <path
+              id="apexcharts-radialbarTrack-0"
+              d="M 56.84700254482439 151.4277397484143 A 67.13414634146342 67.13414634146342 0 1 1 133.5670731707317 158.13987619308944"
+              fill="none"
+              fill-opacity="1"
+              stroke="transparent"
+              stroke-opacity="1"
+              stroke-linecap="butt"
+              stroke-width="16.442682926829267"
+              stroke-dasharray="0"
+              class="apexcharts-radialbar-area"
+              data:pathOrig="M 56.84700254482439 151.4277397484143 A 67.13414634146342 67.13414634146342 0 1 1 133.5670731707317 158.13987619308944"
+            ></path>
+          </g>
+        </g>
+        <g id="SvgjsG20337">
+          <g
+            id="SvgjsG20342"
+            class="apexcharts-series apexcharts-radial-series"
+            seriesName="Growth"
+            rel="1"
+            data:realIndex="0"
+          >
+            <path
+              id="SvgjsPath20347"
+              d="M 56.84700254482439 151.4277397484143 A 67.13414634146342 67.13414634146342 0 1 1 166.970610935126 95.31695868339744"
+              fill="none"
+              fill-opacity="0.85"
+              stroke="url(#SvgjsLinearGradient20343)"
+              stroke-opacity="1"
+              stroke-linecap="butt"
+              stroke-width="16.95121951219512"
+              stroke-dasharray="5"
+              class="apexcharts-radialbar-area apexcharts-radialbar-slice-0"
+              data:angle="226"
+              data:value="78"
+              index="0"
+              j="0"
+              data:pathOrig="M 56.84700254482439 151.4277397484143 A 67.13414634146342 67.13414634146342 0 1 1 166.970610935126 95.31695868339744"
+            ></path>
+          </g>
+          <circle
+            id="SvgjsCircle20338"
+            r="53.91280487804879"
+            cx="100"
+            cy="100"
+            class="apexcharts-radialbar-hollow"
+            fill="transparent"
+          ></circle>
+          <g
+            id="SvgjsG20339"
+            class="apexcharts-datalabels-group"
+            transform="translate(0, 0) scale(1)"
+            style="opacity: 1"
+          >
+            <text
+              id="SvgjsText20340"
+              font-family='Public Sans,sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"'
+              x="100"
+              y="125"
+              text-anchor="middle"
+              dominant-baseline="auto"
+              font-size="16px"
+              font-weight="500"
+              fill="rgba(50, 71, 92, 0.6)"
+              class="apexcharts-text apexcharts-datalabel-label"
+              style="
+                font-family: 'Public Sans', sans-serif, -apple-system,
+                  BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+                  Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+                  'Segoe UI Symbol';
+              "
+            >
+              Growth
+            </text>
+            <text
+              id="SvgjsText20341"
+              font-family='Public Sans,sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"'
+              x="100"
+              y="101"
+              text-anchor="middle"
+              dominant-baseline="auto"
+              font-size="24px"
+              font-weight="500"
+              fill="rgba(50, 71, 92, 0.87)"
+              class="apexcharts-text apexcharts-datalabel-value"
+              style="
+                font-family: 'Public Sans', sans-serif, -apple-system,
+                  BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+                  Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+                  'Segoe UI Symbol';
+              "
+            >
+              78%
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line
+      id="SvgjsLine20348"
+      x1="0"
+      y1="0"
+      x2="200"
+      y2="0"
+      stroke="#b6b6b6"
+      stroke-dasharray="0"
+      stroke-width="1"
+      stroke-linecap="butt"
+      class="apexcharts-ycrosshairs"
+    ></line>
+    <line
+      id="SvgjsLine20349"
+      x1="0"
+      y1="0"
+      x2="200"
+      y2="0"
+      stroke-dasharray="0"
+      stroke-width="0"
+      stroke-linecap="butt"
+      class="apexcharts-ycrosshairs-hidden"
+    ></line>
+  </g>
+  <g id="SvgjsG20325" class="apexcharts-annotations"></g>
+</svg>
